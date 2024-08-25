@@ -35,7 +35,7 @@ function Main() {
             the process of using computers to perform calculations, manage data,
             and solve problems. But it's so much more than that. Computing is at
             the heart of everything we do today, from sending a text message to
-            running complex simulations that predict weather patterns.
+            running complex simulations that predict weather patterns...
           </p>
         </div>
       </div>
